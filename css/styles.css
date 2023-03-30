@@ -1,0 +1,756 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+main {
+    width: 100%;
+}
+
+#logo {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 40px;
+    top: 41px;
+
+}
+
+.logoName {
+    position: absolute;
+    width: 154px;
+    height: 33px;
+    left: 78px;
+    top: 40px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+
+
+    letter-spacing: 0.25em;
+
+    color: #3E3F43;
+
+}
+
+header {
+
+    position: absolute;
+    width: 192px;
+    height: 33px;
+    left: 40px;
+    top: 40px;
+
+}
+
+
+
+
+.bg {
+
+
+    position: absolute;
+    width: 1200px;
+    height: 555px;
+    left: 0px;
+    top: 123px;
+
+    background: #F9BDBD;
+
+}
+
+
+
+.paragraph {
+
+    position: absolute;
+    width: 448px;
+    height: 98px;
+    left: 506px;
+    top: 206px;
+
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+
+    color: #3E3F43;
+
+}
+
+p.paragraph {
+
+    position: absolute;
+    width: 448px;
+    height: 66px;
+    left: 506px;
+    top: 320px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+
+    color: #000000;
+}
+
+.abaANDshonRDY {
+
+    position: absolute;
+    width: 426px;
+    height: 388px;
+    left: 40px;
+    top: 206px;
+}
+
+
+
+h2.paragraph_Area3 {
+    position: absolute;
+    width: 89px;
+    height: 40px;
+    left: 40px;
+    top: 702px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+
+    color: #000000;
+}
+
+p.paragraph_Area3 {
+
+    position: absolute;
+    width: 741px;
+    height: 394px;
+    top: 766px;
+    left: 40px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140.62%;
+
+
+    text-align: justify;
+
+    color: #000000;
+
+
+}
+
+.Exercises {
+
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 40px;
+    top: 1243px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+
+
+
+    color: #000000;
+}
+
+.bgEX1 {
+    position: absolute;
+    width: 200px;
+    height: 264px;
+    left: 40px;
+    top: 1307px;
+    background: #FDEDE5;
+
+    border-radius: 20px;
+
+}
+
+.bgBUTTON1 {
+
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 64px;
+    top: 1491px;
+
+    background: white;
+    border-radius: 4px;
+
+}
+
+.bgBUTTON1:hover {
+
+    background-color: #171F46;
+
+}
+
+.bgBUTTON2 {
+
+
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 288px;
+    top: 1491px;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+
+
+}
+
+.bgBUTTON2:hover {
+
+    background-color: #171F46;
+
+}
+
+.bgBUTTON3 {
+
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 512px;
+    top: 1491px;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+
+
+
+}
+
+.bgBUTTON3:hover {
+
+    background-color: #171F46;
+
+}
+
+
+.bgBUTTON4 {
+
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 736px;
+    top: 1491px;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.bgBUTTON4:hover {
+
+    background-color: #171F46;
+
+}
+
+.bgBUTTON5 {
+
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 960px;
+    top: 1491px;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+.bgBUTTON5:hover {
+
+    background-color: #171F46;
+    background: #171F46;
+
+}
+
+.paragraph_Area4_EX1 {
+
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 105.84px;
+    top: 1499px;
+    color: #171F46;
+
+
+
+
+}
+
+.paragraph_Area4_EX1:hover {
+
+    color: #FDEDE5;
+
+}
+
+.paragraph_Area4_EX2 {
+
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 329.84px;
+    top: 1499px;
+    color: #171F46;
+
+}
+
+.paragraph_Area4_EX2:hover {
+
+    color: #EBF1FF;
+
+}
+
+.paragraph_Area4_EX3 {
+
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 553.84px;
+    top: 1499px;
+    color: #171F46;
+
+}
+
+.paragraph_Area4_EX3:hover {
+
+    color: #EBFFEC;
+
+}
+
+.paragraph_Area4_EX4 {
+
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 777.84px;
+    top: 1499px;
+    color: #171F46;
+
+}
+
+.paragraph_Area4_EX4:hover {
+
+    color: #FFEBFC;
+
+}
+
+.paragraph_Area4_EX5 {
+
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 1001.84px;
+    top: 1499px;
+    color: #171F46;
+
+}
+
+.paragraph_Area4_EX5:hover {
+
+    color: #FFFEEB;
+
+}
+
+.Exercise_1 {
+
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 64px;
+    top: 1435px;
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.Exercise_2 {
+
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 288px;
+    top: 1435px;
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.Exercise_3 {
+
+
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 512px;
+    top: 1435px;
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+
+
+
+}
+
+.Exercise_4 {
+
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 736px;
+    top: 1435px;
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+.Exercise_5 {
+
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 960px;
+    top: 1435px;
+
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+
+
+
+
+}
+
+.imageEX1 {
+
+    position: absolute;
+    position: absolute;
+    width: 80px;
+    height: 80PX;
+    left: 64px;
+    top: 1331px;
+    border-radius: 20px;
+}
+
+
+
+.imageEX2 {
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 288px;
+    top: 1331px;
+    border-radius: 20px;
+
+
+}
+
+.imageEX3 {
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 512px;
+    top: 1331px;
+    border-radius: 20px;
+
+
+
+}
+
+.imageEX4 {
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 736px;
+    top: 1331px;
+    border-radius: 20px;
+
+
+}
+
+.imageEX5 {
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 960px;
+    top: 1331px;
+    border-radius: 20px;
+
+}
+
+.bgEX2 {
+
+    position: absolute;
+    width: 200px;
+    height: 264px;
+    left: 264px;
+    top: 1307px;
+    background: #EBF1FF;
+
+
+    border-radius: 20px;
+
+
+}
+
+.bgEX3 {
+
+    position: absolute;
+    width: 200px;
+    height: 264px;
+    left: 488px;
+    top: 1307px;
+    background: #EBFFEC;
+
+
+    border-radius: 20px;
+
+
+
+}
+
+.bgEX4 {
+
+    position: absolute;
+    width: 200px;
+    height: 264px;
+    left: 712px;
+    top: 1307px;
+    background: #FFEBFC;
+
+
+    border-radius: 20px;
+
+
+
+}
+
+.bgEX5 {
+
+
+    position: absolute;
+    width: 200px;
+    height: 264px;
+    left: 936px;
+    top: 1307px;
+    background: #FFFEEB;
+
+
+    border-radius: 20px;
+}
+
+section.Area4 {
+
+    position: absolute;
+    width: 1096px;
+    height: 328px;
+    left: 40px;
+    top: 12px;
+
+}
+
+section.Area3 {
+
+    position: absolute;
+    width: 741px;
+    height: 458px;
+    left: 40px;
+    top: 70px;
+
+}
+
+section.Area2 {
+
+
+    position: absolute;
+    width: 1200px;
+    height: 555px;
+    left: 0px;
+    top: 30px;
+}
+
+section.Area5 h2 {
+    position: absolute;
+    width: 364px;
+    height: 40px;
+    left: 80px;
+    top: 1611px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+
+
+
+    color: #000000;
+
+}
+
+section.Area5 ul {
+    position: absolute;
+    width: 364px;
+    height: 205px;
+    left: 105px;
+    top: 1675px;
+
+
+}
+
+section.Area6 img {
+
+    position: absolute;
+    width: 1060px;
+    height: 508px;
+    left: 80px;
+    top: 1920px;
+
+    background: #F9BDBD;
+
+
+}
+
+section.Area6 h1 {
+
+    position: absolute;
+    width: 169px;
+    height: 40px;
+    left: 80px;
+    top: 1856px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+
+
+
+    color: #000000;
+}
+
+footer img {
+
+    position: absolute;
+    width: 1200px;
+    height: 301px;
+    left: 0px;
+    top: 2699px;
+}
+
+footer a {
+
+    position: absolute;
+    width: 60px;
+    height: 19px;
+    left: 80px;
+    top: 2772px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #8D8D8D;
+}
+
+footer h2 {
+
+
+    position: absolute;
+    width: 90px;
+    height: 25px;
+    left: 80px;
+    top: 2731px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+
+
+
+    color: #333333;
+
+}
+
+footer span {
+
+    position: absolute;
+    width: 108.33px;
+    height: 17.65px;
+    left: 80px;
+    top: 2931px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+
+    color: #8D8D8D;
+
+}
